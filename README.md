@@ -1,6 +1,6 @@
 **Code availability for the manuscript titled: _'Physical and Mental Health Comorbidities of Premenstrual Dysphoric Disorder in a sample of 4,047 participants from the Our Future Health cohort'_**
 
-Code availability folder comprises four files with scripts used for the data analysis in the manuscript. 
+Scripts folder comprises four files with scripts used for the data analysis in the manuscript. 
 
 Description of scripts:
 
