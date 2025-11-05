@@ -6,16 +6,16 @@
 
 #
 
-01_Baseline_characteristics_missingness.R:
+01_Baseline_characteristics_missingness.R
 
 #
-02_Comorbidity_prevalence.R:
+02_Comorbidity_prevalence.R
 
 #
-03_Comorbidity_regression_PMDD_v_MDD.R:
+03_Comorbidity_regression_PMDD_v_MDD.R
 
 #
-04_Comorbidity_regression_PMDD_v_MDD_sensitivity.R:
+04_Comorbidity_regression_PMDD_v_MDD_sensitivity.R
 
 
 #
