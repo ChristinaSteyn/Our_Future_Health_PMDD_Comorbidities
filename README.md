@@ -1,5 +1,5 @@
 #
-## Code availability for the manuscript titled: _'Physical and Mental Health Comorbidities of Premenstrual Dysphoric Disorder in a sample of 4,047 participants from the Our Future Health cohort'_
+## Code availability for the manuscript titled: _'Physical and mental health comorbidities of premenstrual dysphoric disorder: Analysis of 4,475 participants in Our Future Health'_
 
 
 ### Scripts folder comprises four files with R scripts used for the data analysis in the manuscript. 
